@@ -20,7 +20,7 @@
 
 > Tuliskan cerita pengalamanmu selama mengikuti rangkaian kegiatan INFONIC 2026 secara naratif dalam bentuk paragraf di bawah ini.
 
-Mengikuti INFONIC 2026 menjadi pengalaman yang menyenangkan dan berkesan. Saya dapat mengenal teman-teman baru, lingkungan jurusan, serta belajar tentang kerja sama dan kebersamaan. Kegiatan ini juga menjadi langkah awal yang baik untuk memulai perjalanan sebagai mahasiswa Informatika.
+Mengikuti INFONIC 2026 menjadi pengalaman yang menyenangkan dan berkesan. Saya dapat mengenal teman-teman baru, lingkungan jurusan, serta belajar tentang kerja sama dan kebersamaan. Kegiatan ini juga menjadi langkah awal yang baik untuk memulai perjalanan sebagai mahasiswa Informatika..
 
 ---
 
